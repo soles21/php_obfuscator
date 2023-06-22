@@ -85,9 +85,9 @@ class UpdateController extends Controller
 
     public function __construct()
     {
-       	$this->product_id = '656CC6CA';
- 		$this->api_url = 'https://license.codegood.net/';
-  		$this->api_key = 'E73DAB40EFB3FD68B0CD';
+       	$this->product_id = 'FB1F92E4';
+ 		$this->api_url = 'https://api.mashdiv.com/';
+  		$this->api_key = 'CF30BB9297634F7075F6';
         $this->api_language = 'english';
         $this->verify_type = 'envato';
         $this->current_version = '2.6.8.3';
